@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/whizzrd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://whizzrd.github.io
+  * I am whizzrd (https://keybase.io/whizzrd) on keybase.
+  * I have a public key with fingerprint FE00 5EBF AD14 13BC 879F  B116 4A7E FA4E BCE5 0E6C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fe005ebfad1413bc879fb1164a7efa4ebce50e6c",
+            "host": "keybase.io",
+            "key_id": "4a7efa4ebce50e6c",
+            "kid": "0101a9f57d351cd1be9047c4ee0689b2c9dc15a5d78fd93a17ac4f89661a939299240a",
+            "uid": "eea9fc9ecd2b96e1292b260c0f446f00",
+            "username": "whizzrd"
+        },
+        "service": {
+            "hostname": "whizzrd.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430001758,
+    "expire_in": 157680000,
+    "prev": "e97a89cadab3aeb5e0d040d4fcf776213a59ab525e2ac40792b355521dd03116",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2
+
+owFtUl1IVEEYXTNL1wyJgpQ16IIWtMjM/d3ZfqAsicT+IMgeXGfuzHVv6t717rql
+ZfkQlJpoWQb1UJYQReRDUIkWhBqKpRZYZGq99FAU0WoJRdhcq4egp4853zln5nzz
+taQlupITdhz7vrPn3dLyhKH3xLVvQ4b/iEAsWi3wWsbmi2GGSpkdts1QVPALBgNA
+YcTAFMpQIrpPQwaBUJWxxgwsM6IzBTBVF7xC0Io4Cm5DcITlmhbH+CFgUo7+h182
+3wAQQIwMRaOSAnUKCUNA1nSZMaD6EBF1RHWoYIVqPoMiCUMN67LhQ6rKZRISERJl
+gLld1bwdY9xMR0ynIkEqgyISiagCHRiyrBoAOMQIs0O4gnH2oaBZU2NTodYrcDBm
+6syZgBPkX0JuqRkNVpHfmcK2FbV0q5y3g9FoOOJ35NHq8DyfkcAfpwAxQ5TPkiti
+zI6YVkjwQ87Uo6ZjDWUJAAA1xecV2OGwabOA6TAUTfXxBnDuYTEnEdKwD+mYYiJh
+RhQGKJABlQ3d0DRVhBJWECaKqDCRTwZoPLCkKIoIKQUS/ynByVYZsgS/yp+JS7ll
+xCwN4eiiKpsJte76BM9CV0Kya1HSAmcfXO6U9L9L0jWweC6cVDu1anS4e7dn7Ow1
+aXOJfX3cOxDZ2N890/HS/FRf/KxyYuZiZ757U+pk24a3B/fPtvwEmeM1b12rivze
+tXPVgT29u5r6tvfWJ7c2VeZP+ZoHV8RfdW1xiT+GUl5YQs5k46X7DRadeH2nwEgL
+FL45X9G27dRqGDnq6TvXO1jRsG/s0Y1a7XH+6dttaFnW4WG3tTX32PtY470Ty6/U
+ZXSduZBz4OmXOiM7ntX/7vPwwod0ZPrDWuv5+nhq4d14MOvjdEa6/2r7zFys6Hhr
+8Ujmk07P7AOtwJ0NP3xbkteafnPl3p7OPFLXfitxx42OMbJOG+3El0+Ow5LmNV/P
+fAspvwA=
+=6CX7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/whizzrd
+
+==================================================================
+
