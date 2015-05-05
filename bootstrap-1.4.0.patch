@@ -1,0 +1,11 @@
+--- old/lib/forms.less	2011-11-04 00:00:00.000000000 +0000
++++ new/lib/forms.less	2011-11-04 00:00:00.000000001 +0000
+@@ -184,7 +184,7 @@
+     border-color: @borderColor;
+     &:focus {
+       border-color: darken(@borderColor, 10%);
+-      .box-shadow(0 0 6px lighten(@borderColor, 20%);
++      .box-shadow(0 0 6px lighten(@borderColor, 20%));
+     }
+   }
+   // Give a small background color for input-prepend/-append
